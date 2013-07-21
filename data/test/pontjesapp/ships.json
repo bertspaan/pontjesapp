@@ -1,0 +1,639 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.851913,
+                    12.0693
+                ]
+            },
+            "properties": {
+                "mmsi": 338142459,
+                "name": "BLU",
+                "type": "Sailing Vessel",
+                "callsign": "",
+                "code2": "US",
+                "length": 19,
+                "width": 10,
+                "photo_url": "http://services.marinetraffic.com/photos/show/1055366",
+                "speed": 3,
+                "course": 351,
+                "timestamp": "2013-07-21 09:33:00 -0400",
+                "in_boundary": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.935043,
+                    12.11613
+                ]
+            },
+            "properties": {
+                "mmsi": 352379000,
+                "imo": 9201920,
+                "name": "IGUAZU",
+                "type": "Dredger",
+                "callsign": "HO-3141",
+                "code2": "PA",
+                "length": 43,
+                "width": 12,
+                "draugth": 30,
+                "grt": 499,
+                "dwt": 214,
+                "yob": 1999,
+                "course": 21,
+                "timestamp": "2013-07-21 09:32:00 -0400",
+                "in_boundary": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.965897,
+                    12.09671
+                ]
+            },
+            "properties": {
+                "mmsi": 351062000,
+                "imo": 9539676,
+                "name": "ZETA I",
+                "type": "Tanker",
+                "callsign": "3FOD3",
+                "code2": "PA",
+                "length": 103,
+                "width": 16,
+                "draugth": 40,
+                "grt": 4048,
+                "dwt": 6450,
+                "yob": 2009,
+                "photo_url": "http://services.marinetraffic.com/photos/show/305842",
+                "speed": 17,
+                "course": 305,
+                "timestamp": "2013-07-21 09:32:00 -0400",
+                "in_boundary": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.91951,
+                    12.12189
+                ]
+            },
+            "properties": {
+                "mmsi": 205054000,
+                "imo": 8515520,
+                "name": "ORWELL",
+                "type": "Dredger",
+                "callsign": "ORTV",
+                "code2": "BE",
+                "length": 90,
+                "width": 19,
+                "draugth": 32,
+                "grt": 2598,
+                "dwt": 3090,
+                "yob": 1987,
+                "photo_url": "http://services.marinetraffic.com/photos/show/354293",
+                "course": 225,
+                "timestamp": "2013-07-21 09:31:00 -0400",
+                "in_boundary": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.916763,
+                    12.11714
+                ]
+            },
+            "properties": {
+                "mmsi": 205309000,
+                "imo": 9174139,
+                "name": "LANGE WAPPER",
+                "type": "Dredger",
+                "callsign": "ORMP",
+                "code2": "BE",
+                "length": 136,
+                "width": 27,
+                "draugth": 61,
+                "grt": 12536,
+                "dwt": 20642,
+                "yob": 1999,
+                "photo_url": "http://services.marinetraffic.com/photos/show/82663",
+                "speed": 13,
+                "course": 29,
+                "timestamp": "2013-07-21 09:31:00 -0400",
+                "in_boundary": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.931412,
+                    12.11082
+                ]
+            },
+            "properties": {
+                "mmsi": 306147000,
+                "imo": 9144677,
+                "name": "LIMA II",
+                "type": "Tug",
+                "callsign": "PJCA",
+                "code2": "AN",
+                "length": 29,
+                "width": 9,
+                "draugth": 44,
+                "grt": 373,
+                "dwt": 200,
+                "yob": 1997,
+                "photo_url": "http://services.marinetraffic.com/photos/show/304476",
+                "course": 263,
+                "timestamp": "2013-07-21 09:30:00 -0400",
+                "in_boundary": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.92897,
+                    12.11928
+                ]
+            },
+            "properties": {
+                "mmsi": 256525000,
+                "imo": 9337872,
+                "name": "NEW SPIRIT",
+                "type": "Tanker",
+                "callsign": "9HWM8",
+                "code2": "MT",
+                "length": 127,
+                "width": 20,
+                "draugth": 61,
+                "grt": 8452,
+                "dwt": 12950,
+                "yob": 2008,
+                "photo_url": "http://services.marinetraffic.com/photos/show/1139574",
+                "course": 100,
+                "timestamp": "2013-07-21 09:30:00 -0400",
+                "in_boundary": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.931877,
+                    12.10987
+                ]
+            },
+            "properties": {
+                "mmsi": 327802000,
+                "imo": 9256585,
+                "name": "OCOA",
+                "type": "Tug",
+                "callsign": "HIRD269",
+                "code2": "DO",
+                "length": 29,
+                "width": 12,
+                "draugth": 65,
+                "grt": 402,
+                "dwt": 145,
+                "yob": 2002,
+                "photo_url": "http://services.marinetraffic.com/photos/show/262422",
+                "speed": 1,
+                "course": 199,
+                "timestamp": "2013-07-21 09:30:00 -0400",
+                "in_boundary": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.915863,
+                    12.11984
+                ]
+            },
+            "properties": {
+                "mmsi": 308382000,
+                "imo": 8224494,
+                "name": "OCEANIC INSTALLER",
+                "type": "Dive Vessel",
+                "callsign": "C6LO4",
+                "code2": "BS",
+                "length": 84,
+                "width": 18,
+                "draugth": 46,
+                "grt": 3292,
+                "dwt": 2100,
+                "yob": 1984,
+                "photo_url": "http://services.marinetraffic.com/photos/show/759630",
+                "timestamp": "2013-07-21 09:29:00 -0400",
+                "in_boundary": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.93322,
+                    12.10987
+                ]
+            },
+            "properties": {
+                "mmsi": 305389000,
+                "imo": 9433743,
+                "name": "PEGASUS",
+                "type": "Tug",
+                "callsign": "V2ED2",
+                "code2": "AG",
+                "length": 48,
+                "width": 12,
+                "draugth": 57,
+                "grt": 1262,
+                "dwt": 1017,
+                "yob": 2009,
+                "photo_url": "http://services.marinetraffic.com/photos/show/156181",
+                "course": 35,
+                "timestamp": "2013-07-21 09:28:00 -0400",
+                "in_boundary": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.915497,
+                    12.115
+                ]
+            },
+            "properties": {
+                "mmsi": 309785000,
+                "imo": 9143740,
+                "name": "DISCOVERY BAY",
+                "type": "Cargo",
+                "callsign": "C6OP3",
+                "code2": "BS",
+                "length": 143,
+                "width": 22,
+                "draugth": 71,
+                "grt": 8924,
+                "dwt": 10100,
+                "yob": 1997,
+                "photo_url": "http://services.marinetraffic.com/photos/show/642664",
+                "course": 318,
+                "timestamp": "2013-07-21 09:27:00 -0400",
+                "in_boundary": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.932571,
+                    12.12136
+                ]
+            },
+            "properties": {
+                "mmsi": 235075105,
+                "imo": 9434228,
+                "name": "CPO INDIA",
+                "type": "Tanker",
+                "callsign": "2CRH7",
+                "code2": "UK",
+                "length": 183,
+                "width": 32,
+                "draugth": 106,
+                "grt": 29636,
+                "dwt": 51703,
+                "yob": 2010,
+                "photo_url": "http://services.marinetraffic.com/photos/show/1141563",
+                "course": 64,
+                "timestamp": "2013-07-21 09:27:00 -0400",
+                "in_boundary": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.922447,
+                    12.11585
+                ]
+            },
+            "properties": {
+                "mmsi": 244723000,
+                "imo": 9165449,
+                "name": "ECHO",
+                "type": "Cargo",
+                "callsign": "PHKX",
+                "code2": "NL",
+                "length": 149,
+                "width": 24,
+                "draugth": 59,
+                "grt": 10384,
+                "dwt": 12310,
+                "yob": 1999,
+                "photo_url": "http://services.marinetraffic.com/photos/show/637630",
+                "course": 3,
+                "timestamp": "2013-07-21 09:27:00 -0400",
+                "in_boundary": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.919502,
+                    12.1205
+                ]
+            },
+            "properties": {
+                "mmsi": 253008000,
+                "imo": 9262778,
+                "name": "FILIPPO BRUNELLESCHI",
+                "type": "Dredger",
+                "callsign": "LXBF",
+                "code2": "LU",
+                "length": 143,
+                "width": 28,
+                "draugth": 60,
+                "grt": 13001,
+                "dwt": 18590,
+                "yob": 2003,
+                "photo_url": "http://services.marinetraffic.com/photos/show/493714",
+                "course": 17,
+                "timestamp": "2013-07-21 09:27:00 -0400",
+                "in_boundary": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.919449,
+                    12.11546
+                ]
+            },
+            "properties": {
+                "mmsi": 245309000,
+                "imo": 9358943,
+                "name": "FAIRMOUNT EXPEDITION",
+                "type": "Tug",
+                "callsign": "PBNB",
+                "code2": "NL",
+                "length": 75,
+                "width": 18,
+                "draugth": 66,
+                "grt": 3239,
+                "dwt": 3567,
+                "yob": 2007,
+                "photo_url": "http://services.marinetraffic.com/photos/show/995239",
+                "speed": 1,
+                "course": 1,
+                "timestamp": "2013-07-21 09:27:00 -0400",
+                "in_boundary": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.911957,
+                    12.1176
+                ]
+            },
+            "properties": {
+                "mmsi": 226235000,
+                "imo": 9247039,
+                "name": "ILE DE SEIN",
+                "type": "Dredger",
+                "callsign": "FOUD",
+                "code2": "FR",
+                "length": 140,
+                "width": 23,
+                "draugth": 73,
+                "grt": 13978,
+                "dwt": 9820,
+                "yob": 2001,
+                "photo_url": "http://services.marinetraffic.com/photos/show/495489",
+                "course": 308,
+                "timestamp": "2013-07-21 09:27:00 -0400",
+                "in_boundary": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.9366,
+                    12.12282
+                ]
+            },
+            "properties": {
+                "mmsi": 356606000,
+                "imo": 9262948,
+                "name": "MADO",
+                "type": "Tanker",
+                "callsign": "HOTT",
+                "code2": "PA",
+                "length": 156,
+                "width": 25,
+                "draugth": 71,
+                "grt": 16770,
+                "dwt": 19621,
+                "yob": 2003,
+                "photo_url": "http://services.marinetraffic.com/photos/show/965177",
+                "course": 158,
+                "timestamp": "2013-07-21 09:26:00 -0400",
+                "in_boundary": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.916077,
+                    12.12261
+                ]
+            },
+            "properties": {
+                "mmsi": 775994400,
+                "imo": 9577226,
+                "name": "CHAMPION 1",
+                "type": "Reserved",
+                "callsign": "YYV3317",
+                "code2": "VE",
+                "length": 32,
+                "width": 12,
+                "draugth": 53,
+                "grt": 484,
+                "yob": 2010,
+                "course": 252,
+                "timestamp": "2013-07-21 09:25:00 -0400",
+                "in_boundary": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.863586,
+                    12.0724
+                ]
+            },
+            "properties": {
+                "mmsi": 308687000,
+                "imo": 7503166,
+                "name": "CASTORO 10",
+                "type": "Other",
+                "callsign": "C6DD9",
+                "code2": "BS",
+                "length": 3,
+                "width": 7,
+                "draugth": 41,
+                "grt": 10180,
+                "dwt": 12403,
+                "yob": 1976,
+                "photo_url": "http://services.marinetraffic.com/photos/show/241274",
+                "course": 344,
+                "timestamp": "2013-07-21 09:25:00 -0400",
+                "in_boundary": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.913673,
+                    12.11765
+                ]
+            },
+            "properties": {
+                "mmsi": 538001583,
+                "imo": 9236494,
+                "name": "RELIANCE",
+                "type": "Other",
+                "callsign": "V7CZ2",
+                "code2": "MH",
+                "length": 137,
+                "width": 21,
+                "draugth": 68,
+                "grt": 12184,
+                "dwt": 10301,
+                "yob": 2001,
+                "photo_url": "http://services.marinetraffic.com/photos/show/889028",
+                "course": 299,
+                "timestamp": "2013-07-21 09:25:00 -0400",
+                "in_boundary": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.918297,
+                    12.12027
+                ]
+            },
+            "properties": {
+                "mmsi": 775053000,
+                "imo": 9117478,
+                "name": "LUISA CACERES DE ARISMENDI",
+                "type": "Tanker",
+                "callsign": "YYHT",
+                "code2": "VE",
+                "length": 183,
+                "width": 32,
+                "draugth": 98,
+                "grt": 28341,
+                "dwt": 47144,
+                "yob": 1996,
+                "photo_url": "http://services.marinetraffic.com/photos/show/981041",
+                "course": 144,
+                "timestamp": "2013-07-21 09:24:00 -0400",
+                "in_boundary": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.933327,
+                    12.11583
+                ]
+            },
+            "properties": {
+                "mmsi": 232207000,
+                "imo": 8222941,
+                "name": "PACIFIC GUARDIAN",
+                "type": "Cargo",
+                "callsign": "GDTT",
+                "code2": "UK",
+                "length": 115,
+                "width": 18,
+                "draugth": 58,
+                "grt": 6133,
+                "dwt": 3544,
+                "yob": 1984,
+                "photo_url": "http://services.marinetraffic.com/photos/show/575001",
+                "course": 327,
+                "timestamp": "2013-07-21 09:24:00 -0400",
+                "in_boundary": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.856903,
+                    12.08418
+                ]
+            },
+            "properties": {
+                "mmsi": 205392110,
+                "name": "LUCKY BITCH",
+                "type": "Pleasure Craft",
+                "callsign": "OR3921",
+                "code2": "BE",
+                "length": 10,
+                "width": 4,
+                "photo_url": "http://services.marinetraffic.com/photos/show/587212",
+                "timestamp": "2013-07-21 09:23:00 -0400",
+                "in_boundary": false
+            }
+        }
+    ]
+}

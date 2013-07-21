@@ -161,7 +161,7 @@ module MarineTraffic
   
   def self.get_vessels(vessels_key, timespan, msgtype)
     if @@debug
-      file = File.open("data/test/#{msgtype}.xml", "rb")
+      file = File.open("data/test/marinetraffic/#{msgtype}.xml", "rb")
       XmlSimple.xml_in file.read
     else
       self.download(@@vessels_url % [vessels_key, timespan, msgtype])
