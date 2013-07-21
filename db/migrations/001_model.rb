@@ -17,6 +17,7 @@ Sequel.migration do
       integer :grt
       integer :dwt
       integer :yob
+      String :photo_url
     end
     
     # CURRENT_PORT="WILLEMSTAD" 
